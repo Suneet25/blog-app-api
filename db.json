@@ -15,7 +15,7 @@
       "id": 2
     }
   ],
-  "blogs": [
+   "blogs": [
     {
       "id": 1,
       "username": "coreyschafer",
@@ -27,7 +27,9 @@
       "comments": [
         { "username": "Jane", "content": "Good One" },
         { "username": "Bob", "content": "Loved It!" }
-      ],
+      ]
+    }
+  ],
      "products": [
     {
       "category": "Child",
